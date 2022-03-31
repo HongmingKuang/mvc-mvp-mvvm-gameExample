@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oby7Zah8KtAqd+eSr7MX6oJbGBxfK0ivSBEYkiO6C+vl7rh3dYFGZpDVCUCXcfiefhTg+5fsUh1PtCMfhxxuRg==",
+  "success": true,
+  "projectFilePath": "E:\\githubProject\\wpf-TicTacToe-example\\TicTacToeExample\\TicTacToeExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khoing\\.nuget\\packages\\fluentwpf\\0.8.0\\fluentwpf.0.8.0.nupkg.sha512",
+    "C:\\Users\\khoing\\.nuget\\packages\\materialdesigncolors\\1.2.2\\materialdesigncolors.1.2.2.nupkg.sha512",
+    "C:\\Users\\khoing\\.nuget\\packages\\materialdesignthemes\\3.0.1\\materialdesignthemes.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
